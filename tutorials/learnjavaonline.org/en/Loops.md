@@ -72,7 +72,7 @@ This is a short version and equivalent to:
 
 Notice that if you want to use the index of the element inside the loop, you have to use the longer version and can't use foreach.
 
-### break and continue
+### Break and Continue
 
 These two keywords help us control the loop from within it.
 `break` will cause the loop to stop and will go immediately to the next statement after the loop:
